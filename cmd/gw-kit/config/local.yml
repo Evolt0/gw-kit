@@ -1,0 +1,4 @@
+App:
+  name: gw-kit
+  port: :8080
+  mode: debug
